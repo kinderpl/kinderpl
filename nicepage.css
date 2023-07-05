@@ -42292,7 +42292,7 @@ a.u-link.u-text-hover-grey-90:hover {
         --theme-sheet-width-lg: 940px;
         --theme-sheet-width-md: 720px;
         --theme-sheet-width-sm: 540px;
-        --theme-sheet-width-xs: 400px;
+        --theme-sheet-width-xs: 350px;
         
         
         
@@ -42978,7 +42978,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 161px;
+    min-height: 176px;
   }
 
   .u-header .u-text-1 {
@@ -43013,7 +43013,7 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-text-3 {
     margin-top: -66px;
     margin-left: auto;
-    margin-bottom: 93px;
+    margin-bottom: 60px;
   }
 }
  .u-footer {
