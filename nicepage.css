@@ -42457,7 +42457,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-body
         {
         background-image: url("images/Untitleddesign4.png");
-        background-attachment: fixed;
+        background-attachment: scroll;
         background-size: initial;
         background-position: top left;
         background-repeat: repeat;
@@ -42793,7 +42793,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 108px;
+  min-height: 110px;
 }
 
 .u-header .u-text-1 {
@@ -42816,6 +42816,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-btn-2 {
   background-image: none;
   font-size: 1rem;
+  line-height: 1.2;
   padding: 0;
 }
 
@@ -42844,7 +42845,8 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-text-3 {
   background-image: none;
   font-size: 1rem;
-  margin: -26px auto 20px 58px;
+  line-height: 1.2;
+  margin: -26px auto 4px 58px;
 }
 @media (max-width: 1199px) {
   .u-header .u-sheet-1 {
@@ -42978,42 +42980,45 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 176px;
+    min-height: 126px;
   }
 
   .u-header .u-text-1 {
-    margin-top: 12px;
+    margin-top: 8px;
     margin-left: auto;
   }
 
   .u-header .u-btn-1 {
-    margin-top: 72px;
+    margin-top: 45px;
     margin-right: auto;
-    margin-left: 18px;
+    margin-left: 50px;
   }
 
   .u-header .u-text-2 {
-    margin-top: -34px;
-    margin-right: 13px;
+    margin-top: -32px;
+    margin-right: 50px;
   }
 
   .u-header .u-icon-1 {
-    margin-top: -64px;
-    margin-right: 83px;
+    width: 25px;
+    height: 25px;
+    margin-top: -60px;
+    margin-right: 116px;
   }
 
   .u-header .u-icon-2 {
-    width: 30px;
-    height: 30px;
-    margin-top: -30px;
+    width: 25px;
+    height: 25px;
+    margin-top: -25px;
     margin-right: auto;
-    margin-left: 71px;
+    margin-left: 106px;
   }
 
   .u-header .u-text-3 {
-    margin-top: -66px;
+    line-height: 1;
+    margin-top: -48px;
     margin-left: auto;
-    margin-bottom: 60px;
+    margin-bottom: 0;
   }
 }
  .u-footer {
@@ -43040,7 +43045,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
-    min-height: 36px;
+    min-height: 40px;
   }
 }
 
